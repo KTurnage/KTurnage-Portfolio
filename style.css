@@ -20,7 +20,20 @@ h1 {
 
 #contactIcon {
     height: 100px;
+    /* align-items: center; */
+    display: inline-block;
     text-align: center;
+    content: center;
+}
+
+p {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    height: 100%;
+    /* margin-top: -50px; */
+    vertical-align: center;
+    padding: 10px;
 }
 
 body {
