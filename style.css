@@ -25,6 +25,10 @@ h1, h2 {
     height: 600px;
 }
 
+.card-title {
+    text-align: center;
+}
+
 #contactIcon {
     height: 100px;
 }
